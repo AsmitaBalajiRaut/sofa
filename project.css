@@ -1,0 +1,25 @@
+a{
+    text-decoration: none;
+}
+#div1{
+    justify-content: end;
+    display: flex;
+    
+}
+#div1>div{
+    margin-left: 10px;
+}
+#div2{
+    display: flex;
+}
+#div3>div{
+    background-color: bisque;
+    height: 100px;
+    width: 100px; 
+    margin-left: 20px;  
+}
+
+#div3>div>img{
+    position: absolute;
+    display: flex;
+}
