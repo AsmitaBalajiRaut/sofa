@@ -1,0 +1,86 @@
+a{
+    text-decoration: none;
+}
+#divmain>div{
+    margin-left: 10px;
+}
+button{
+    background-color: black;
+    color: white;
+    font-size: 20px;
+}
+#div1{
+    display: flex;
+    justify-content: center;
+    
+}
+#divmain{
+    display: flex;
+    justify-content: end;
+    
+}
+#div2{
+    background-color: bisque;
+    margin-top: 100px;
+    width: 200px;
+    height: 200px;
+}
+img{
+    position: absolute;
+    justify-content: space-evenly;
+   
+}
+#div3{
+    background-color: bisque;
+    width: 200px;
+    height: 200px;
+    margin-top:100px ;
+    margin-left: 20px;
+}
+#div4{
+    background-color:bisque;
+    width: 200px;
+    height: 200px;
+    margin-top:100px ;
+    margin-left: 20px;
+}
+h3{
+    justify-content: center;
+    text-align: center;
+    margin-top: 110px;
+    
+}
+p{
+    font-style: oblique;
+    text-align: center;
+    font-size: 20px;
+}
+#divgrid{
+    border-radius: 100px;
+    display: flex;
+    justify-content: center;
+}
+#div5{
+    height: 80px;
+    width: 110px;
+    transform: rotate(-90deg);
+    margin-top: 60px;
+}
+#diva{
+    background-color:black;
+    height: 80px;
+    width: 80px;
+    border-radius: 100px;
+    margin-left: 70px;
+    margin-top: 100px;
+    align-items: center;
+    justify-content: center;
+}
+h1{
+    font-size: 50px;
+}
+.image{
+    border-radius: 20px;
+    text-align: center;
+    margin-top: 100px;
+}

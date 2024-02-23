@@ -1,0 +1,15 @@
+#divmain{
+    background-color: dodgerblue;
+    display: flex;
+
+}
+#divmain > div{
+    width: 200px;
+    height: 200px;
+    margin: 10px; 
+    background-color: azure;
+}
+
+ul > .sp1{
+    color: aqua;
+}
